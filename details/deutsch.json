@@ -1,0 +1,2959 @@
+{
+    "tasksData": [
+        {
+            "name": "Easy Levels",
+            "localizedName": "Einfaches Level",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Dude Perfect",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "the Rad Brad",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "5 Minute Crafts",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Comedy Central",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Fa Ze Rug",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Rooster Teeth",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Steve TV Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Ingrid Nilsen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Magnet World",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "8 Passengers",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "FRED",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Lets Play",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "Matt Stonie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Thread Banger",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Trinity and Beyond",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Natalies Outlet",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Mondo Media",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Netflix Futures",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Aphmau",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Cocomelon",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Bethany Mota",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "AniBox Trailer Access",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "ERB",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Movie clips",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "shane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Great Big Story",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "My Life As Eva",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Jerome ASF",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Andrew Schrock",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Barbie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Joey Graceffa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "PDK Films",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Random Encounters",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Ryan's World",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Lucas and Marcus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "Brave Wilderness",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Wassabi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "markcrilley",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Philip DeFranco",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Jen Smith",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "College Humor",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Hobby Kids TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Reaction Time",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "CGP Grey",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "Karina Garcia",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "WWE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Smosh",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Jelly",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Chris Smoove",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Hannah Stocking",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "The Infographics Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "SHAYTARDS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "Troom Troom",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Michelle Phan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "Tanner Braungardt",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "KSI Olajidebt HD V2",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Test Ex",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Kritter Klub",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "JoBlo Movie Trailers",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "CJ SO COOL",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "Leafy Is Here",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "Tobuscus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "Kwebbelkop",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "Xpert Thief",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "dope2111",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "Guava Juice",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "M3RK MUS1C",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "Vitalyzd Tv",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "Dashie Games",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "Stuart Edge",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "Extreme Toys TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "Flavia Calina",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "Josh Paler Lin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "Roman Atwood",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "Liza Koshy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "Toys Play",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "Tannerites",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "Alan Becker",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "Bad Lip Reading",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "Toymation",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "Nat and Essie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "emma chamberlain",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "Cake English",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "ZHC",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "Maya and Mary",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "Tfue",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Talking Tom",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "Daily Dose Of Internet",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "schmoyoho",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "Its Funneh",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "Vania Mania Kids",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "Wolfoo Family",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "Magic of Rahat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "The Richest",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "Coryx Kenshin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "Dr. Sandra Lee",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "Ownage Pranks",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "Hoopla Kidz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "Lanky Box",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "What's Inside?",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        },
+        {
+            "name": "Hard Levels",
+            "localizedName": "Hartes Level",
+            "gameType": 3,
+            "useMixedTypes": false,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Pew Die Pie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Mr Beast",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Preston",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Lele Pons",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Chad Wild Clay",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Saturday Night Live",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Miranda Sings",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Think noodles",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "i Justine",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Gizmo Slip",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Avocado Couple",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Good Mythical Morning",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "T STUDIO",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Share My Story",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Marques Brownlee",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "The Fizzy Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Uber Haxor Nova",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Tyler Oakley",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "FV FAMILY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Netflix",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "James Charles",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Mystic Got Jokes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Pencilmation",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "TODAY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Maymo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "i Dubbbz TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Haschak Sisters",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "My Harto",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "The Game Theorists",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Rudy Mancuso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Mark Rober",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Connor Franta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Sandra Cires Art",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Chotoonz TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "THE PRINCE FAMILY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "merrell twins",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Goo Goo Colors",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Jenna Marbles",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Facts Verse",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Tati",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Rice Gum",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Nade shot",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "SSundee",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Cinemassacre",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "stampy long head",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "My Froggy Stuff",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "The Key of Awesome",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Zach Choi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Sky Does Everything",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Its JoJo Siwa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Adult Swim",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "Mc Jugger Nuggets",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "SSSniper Wolf",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Venturian Tale",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "David Dobrik",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "Jaclyn Hill",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Kurt Hugo Schneider",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "grav3yard girl",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "Unspeakable",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Dorkly",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "Loo Loo Kids",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "JRE Clips",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "Tech Rax",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "Laur DIY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "Braille Skateboarding",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "Rocket Jump",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "First We Feast",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "Animal Planet",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "The Odd1s Out",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "Captain Sparklez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "Popular MMOs",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "Experiment All vs Car",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "Ninja Kidz TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "More JStu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "Dhar Mann",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "Apple",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "Super JoJo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "Tasty",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "A for Adley",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "Booba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "Jake Fellman",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "Travel Thirsty",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "America's Got Talent",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "Little Angel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "Cookie Swirl C",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "Fat TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "National Geographic",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "Pink Panther",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "Crash Course",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "Johny Family Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "Sofia Little Princess",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "Come Play With Me",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "GOOD LAND",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "Patrick Starrr",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "Toys and Colors",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "penguinz 0",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "Kids Diana Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "Zealous",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "The Royalty Family",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "Yummy Cookies",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "name": "Medium Levels",
+            "localizedName": "Mittleres Level",
+            "gameType": 1,
+            "useMixedTypes": false,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Logan Paul",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Colleen Ballinger",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Paint",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Alisha Marie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Blossom",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Zack Scott Games",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Corridor",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Casey Neistat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Sandaroo Kids",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Brent Rivera",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Andrea Russett",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Team Four Star",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "The ACE Family",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Crafty Panda",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Anwar Jibawi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Safiya Nygaard",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Flamingo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "jeffree star",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Stephen Sharer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "FRESH Movie Trailers",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "gameranx",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Mother Goose Club",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "The King of Random",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Ninja",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Bart Baker",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "The Talko",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Markiplier",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Collins Key",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Doods",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Jesse",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Netflix Jr.",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "The Angry Grandpa Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Sea Nanners",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "League of Legends",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Dang Matt Smith",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "The LaBrant Fam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Pink fong",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "fousey TUBE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "BRIGHT SIDE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Jennx penn",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Ricky Dillon",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Vy Qwaint",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Mikey Bolts",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Rcl beauty 101",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "Angry Joe Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "Roman Atwood Vlogs",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Kathleen Lights",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Infinite",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Awesomeness TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "jacks films",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Rebecca Zamolo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "The Dodo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "Annoying Orange",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Jesse And Mike",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "IGN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "Vsauce",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Blippi Toys",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Shane Dawson TV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "FGTeeV",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Cute Girls Hairstyles",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "sWoo Zie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "Dolan Twins",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "Grace Helbig",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "WORLDSTARHIPHOP",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "Emergency Awesome",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "Rosanna Pansino",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "FaZe Adapt",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "iHas Cupquake",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "Baby Bus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "Jake Paul",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "The Late Late Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "kipkay",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "Lance Stewart",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "nigahiga",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "Matt Steffanina",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "Dave and Ava",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "Lyrical Lemonade",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "Oddbods",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "Shonduras",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "Vlad and Niki",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "DALLMYD",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "Little Baby Bum",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "Like Nastya",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "Top Movie Clips",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "WB Kids",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "Mr Beast Gaming",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Niki and Gabi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "Miraculous Ladybug",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "The Daily Show with Trevor Noah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "Kids Roma Show",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "Dream",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "The Try Guys",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "Masha and The Bear",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "Wengie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "Toy Toc Toc",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "Toby Games",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "Super Mario Logan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "Pencilmation Live",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "Inquisitor Master",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "OGGY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "abspielen"
+        },
+        {
+            "key": 1,
+            "value": "Info"
+        },
+        {
+            "key": 2,
+            "value": "verlassen"
+        },
+        {
+            "key": 3,
+            "value": "zurück"
+        },
+        {
+            "key": 4,
+            "value": "Machen Sie sich bereit, einige Bildrätsel zu lösen! Steckenbleiben? Verwenden Sie unterschiedliche Hinweise! Verdiene Münzen, indem du Aufgaben erledigst oder kurze ADs ansiehst! genießen!"
+        },
+        {
+            "key": 5,
+            "value": "Verschlossen"
+        },
+        {
+            "key": 6,
+            "value": "Einen Buchstaben Öffnen"
+        },
+        {
+            "key": 7,
+            "value": "Entfernen Sie zusätzliche Buchstaben"
+        },
+        {
+            "key": 8,
+            "value": "Eine Antwort bekommen"
+        },
+        {
+            "key": 9,
+            "value": "Holen Sie sich Münzen"
+        },
+        {
+            "key": 10,
+            "value": "Anzeige ansehen"
+        },
+        {
+            "key": 11,
+            "value": "Kaufen Sie für echtes Geld"
+        },
+        {
+            "key": 12,
+            "value": "fortsetzen"
+        },
+        {
+            "key": 13,
+            "value": "hauptmenü"
+        },
+        {
+            "key": 14,
+            "value": "Level geschafft!"
+        },
+        {
+            "key": 15,
+            "value": "Wenn dir das Spiel gefallen hat, bewerte es bitte bei Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "Bewertung"
+        },
+        {
+            "key": 18,
+            "value": "Später"
+        },
+        {
+            "key": 17,
+            "value": "Nie"
+        },
+        {
+            "key": 19,
+            "value": "Einwilligung zur Datenerhebung"
+        },
+        {
+            "key": 20,
+            "value": "Personalisierte Werbung"
+        },
+        {
+            "key": 21,
+            "value": "Ermöglichen Sie AD-Netzwerken, gesammelte Daten zu verwenden und personalisierte Werbung anzuzeigen"
+        },
+        {
+            "key": 22,
+            "value": "Ja"
+        },
+        {
+            "key": 23,
+            "value": "Nein"
+        },
+        {
+            "key": 24,
+            "value": "Sieht so aus, als hättest du bessere Fortschritte!"
+        },
+        {
+            "key": 25,
+            "value": "Möchten Sie es laden?"
+        },
+        {
+            "key": 26,
+            "value": "Hallo! Um Sie wissen zu lassen, verwenden wir Ihre Spiel- und Gerätedaten mit Ihrer Zustimmung, um unser Spiel zu verbessern!"
+        },
+        {
+            "key": 27,
+            "value": "Möchten Sie, dass wir Ihnen relevante Werbung präsentieren, die zu Ihren Interessen passt?"
+        },
+        {
+            "key": 28,
+            "value": "Bestätigen"
+        },
+        {
+            "key": 29,
+            "value": "Mehr erfahren"
+        },
+        {
+            "key": 30,
+            "value": "Entfernen Sie die falsche Antwort"
+        },
+        {
+            "key": 31,
+            "value": "Entfernen Sie zwei Antworten"
+        },
+        {
+            "key": 32,
+            "value": "Chance zu verwechseln"
+        },
+        {
+            "key": 33,
+            "value": "Bitte hilf mir, das Level zu beenden!"
+        },
+        {
+            "key": 34,
+            "value": "Hilfe von Freunden"
+        },
+        {
+            "key": 35,
+            "value": "Frag Freunde"
+        },
+        {
+            "key": 36,
+            "value": "Wette"
+        },
+        {
+            "key": 37,
+            "value": "Verwenden Sie Hinweise, wenn Sie nicht weiterkommen!"
+        },
+        {
+            "key": 38,
+            "value": "Tippen Sie auf den Buchstaben, um ihn zu löschen. Wischen Sie, um alle Buchstaben zu löschen."
+        },
+        {
+            "key": 39,
+            "value": "Kratzen Sie den Film, um das Bild zu enthüllen!"
+        },
+        {
+            "key": 40,
+            "value": "Tippen Sie hier, um das Bild klarer zu machen. Benötigt Gold!"
+        },
+        {
+            "key": 41,
+            "value": "Tippen Sie auf das Bild, um es deutlicher zu machen. Benötigt Gold!"
+        },
+        {
+            "key": 42,
+            "value": "Tippen Sie darauf, um mit dem Zielen zu beginnen. Tippe zum zweiten Mal darauf, um zu schießen. Benötigt Gold!"
+        },
+        {
+            "key": 43,
+            "value": "Tippen Sie auf den Bereich, um mit dem Zielen zu beginnen. Tippe zum zweiten Mal darauf, um zu schießen. Benötigt Gold!"
+        },
+        {
+            "key": 44,
+            "value": "Tippen Sie hier, um nützliche Informationen zur Aufgabe zu erhalten!"
+        },
+        {
+            "key": 45,
+            "value": "Wie schwierig ist diese Aufgabe? Machen Sie eine richtige Wette!"
+        },
+        {
+            "key": 46,
+            "value": "mehr Spiele"
+        },
+        {
+            "key": 47,
+            "value": "wiederholen"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        113,
+        109,
+        112,
+        110,
+        114,
+        111,
+        108,
+        118,
+        99,
+        115,
+        97,
+        106,
+        100,
+        122,
+        101,
+        104,
+        102,
+        103,
+        105,
+        120,
+        117,
+        56,
+        54,
+        52,
+        50,
+        49
+    ]
+}
